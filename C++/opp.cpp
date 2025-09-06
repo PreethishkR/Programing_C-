@@ -569,7 +569,6 @@ int main(){
         eg1.hello();    
     }
     cout<<"code ending....\n";
-    return 0;
     */
    
     ////Friend class and Function////
@@ -590,7 +589,11 @@ int main(){
     */
 
     //3)
+    /*
     studentss op1("joker",20,"lo443");
     op1.displaystudentinfo();
+    */
+   return 0;
 }
+
 
